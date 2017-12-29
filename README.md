@@ -2,7 +2,7 @@
 ![Laibraries logos](./images/logos.png)
 
 This project is part of assignment home work I got in course I am taking in university.  
-The course called: Practical Web Mining and Modeling for Business Applications.
+The course called: Practical Web Mining and Modeling for Business Applications studied in Ben Gurion University, Israel.
 
 In this assignment we got as input many documents (average of 200 words in document) and the **goal**  is to predict it subject.
 
@@ -53,4 +53,4 @@ Summary:
 ![alg summary](./images/alg_summary.PNG)
     
 **You can use the Jupyter Notebook which is very commented.  
-Thank for reading, Alon.**  
+Thanks for reading, Alon.**  
