@@ -51,6 +51,6 @@ We didn't have any luck in improving this as you can see in the jupyter notebook
   
 Summary:  
 ![alg summary](./images/alg_summary.PNG)
-  
-You can use the Jupyter Notebook which is very commented.  
-Thank for reading, Alon.  
+    
+**You can use the Jupyter Notebook which is very commented.  
+Thank for reading, Alon.**  
