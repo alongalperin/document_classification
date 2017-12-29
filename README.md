@@ -27,4 +27,4 @@ __Text pre-processing and exploration:__
 7. Choose the best model  
   
 The python labraries I mainly used are: Scikit-Learn, nltk, Pandas, 
-![Laibraries logos]("images/logos.png")
+![Laibraries logos](./images/logos.png)
