@@ -9,7 +9,7 @@ The dataset we worked with is "ohsumed-first-20000-docs" which can be downloaded
   
 #### Sized of datasets:
 Train dataset: 10,433 documents  
-Test dataset: 12,733  
+Test dataset: 12,733 documents
 We have 23 possible classifications for the documents. The sujects are related to medicine and health.  
 
 I solved this assignment in Python (version 2.7.10)  
