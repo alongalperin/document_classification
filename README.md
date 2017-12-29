@@ -1,4 +1,5 @@
 # Document Classification
+![Laibraries logos](./images/logos.png)
 
 This project is part of assignment home work I got in course I am taking in university.  
 The course called: Practical Web Mining and Modeling for Business Applications.
@@ -27,4 +28,3 @@ __Text pre-processing and exploration:__
 7. Choose the best model  
   
 The python labraries I mainly used are: Scikit-Learn, nltk, Pandas, 
-![Laibraries logos](./images/logos.png)
