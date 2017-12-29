@@ -20,10 +20,11 @@ __Text pre-processing and exploration:__
 2. Clean the data  
 3. Data exploration  
   
-#### __ Text pre-processing and exploration:__  
+#### __Text pre-processing and exploration:__  
 4. Feature extraction  
 5. Classify using machine learning methods  
 6. Tune the models and try to improve results  
 7. Choose the best model  
   
 The python labraries I mainly used are: Scikit-Learn, nltk, Pandas, 
+![Laibraries logos]("./images/logos.png")
