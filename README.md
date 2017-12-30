@@ -14,7 +14,7 @@ The dataset we worked with is "ohsumed-first-20000-docs" which can be downloaded
      I used the corpus: The Ohsumed corpus (20,000 documents) includes medical abstracts assigned to 23 diseases/categories,  
      it can downloaded from this site: http://disi.unitn.it/moschitti/corpora.htm and here is a direct like to dowload: [download corpus](http://disi.unitn.it/moschitti/corpora/ohsumed-first-20000-docs.tar.gz)
 3. Change the path variable in the beginning of the code to the path of the corpus in yours computer.  
-![path change](./images/path.PNG)
+![path change](./images/path.png)
 
 #### Sized of datasets:
 Train dataset: 10,433 documents  
