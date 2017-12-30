@@ -10,7 +10,7 @@ The dataset we worked with is "ohsumed-first-20000-docs" which can be downloaded
  
 ### How to run?
 1. Install nltk package. You can use this video tutorial for that [Link to tutorial](https://www.youtube.com/watch?v=68aHmFcO-W4)
-2. Download the documents corpus:  
+2. Download and unzip the documents corpus:  
      I used the corpus: The Ohsumed corpus (20,000 documents) includes medical abstracts assigned to 23 diseases/categories,  
      it can downloaded from this site: http://disi.unitn.it/moschitti/corpora.htm and here is a direct like to dowload: [download corpus](http://disi.unitn.it/moschitti/corpora/ohsumed-first-20000-docs.tar.gz)
 3. Change the path variable in the beginning of the code to the path of the corpus in yours computer.  
